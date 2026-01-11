@@ -1,0 +1,14 @@
+/Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/deps/serde-94fd2a7f2161ac81.d: /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/build/serde-0e63bf0d943780d1/out/private.rs
+
+/Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/deps/libserde-94fd2a7f2161ac81.rlib: /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/build/serde-0e63bf0d943780d1/out/private.rs
+
+/Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/deps/libserde-94fd2a7f2161ac81.rmeta: /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/build/serde-0e63bf0d943780d1/out/private.rs
+
+/Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/f/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/build/serde-0e63bf0d943780d1/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/f/Documents/rust-spectre/rust-spectree/target/wasm32-unknown-unknown/release/build/serde-0e63bf0d943780d1/out
