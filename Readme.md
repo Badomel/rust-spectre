@@ -4,7 +4,6 @@
 
 **Rust-Spectre** is a Proof-of-Concept (PoC) demonstrating browser-based execution using **WebAssembly (WASM)** generated from Rust. It simulates a client-side agent deployment to demonstrate the capabilities of WASM in modern post-exploitation scenarios.
 
-![Demo Preview](https://via.placeholder.com/800x400.png?text=Paste+Your+Terminal+Screenshot+Here)
 
 ## 🚀 Features
 
