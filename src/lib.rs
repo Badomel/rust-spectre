@@ -36,7 +36,7 @@ pub fn start() -> Result<(), JsValue> {
 }
 
 async fn send_beacon(url: &str, data: &str) -> Result<JsValue, JsValue> {
-    let mut opts = RequestInit::new();
+    let opts = RequestInit::new();
 
     // PERBAIKAN WARNING: Pakai set_... bukan langsung method()
     opts.set_method("POST");
